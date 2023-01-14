@@ -22,3 +22,4 @@ export function calculateResult(numberValues) {
 
    return result;
 }
+  
